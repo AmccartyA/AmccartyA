@@ -1,4 +1,5 @@
-### Hello , My name is Aaron McCarty <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0080.gif" width="30px">
+### Hello , My name is Aaron McCarty <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="30px">
+
 <!--
 **AmccartyA/AmccartyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
